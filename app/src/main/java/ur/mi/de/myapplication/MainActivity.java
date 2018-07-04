@@ -13,5 +13,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         int fünf = 5;
         int zehn = fünf * 2;
+        String hello = "Hello";
+        int neunzehn = 23-4;
     }
 }
