@@ -15,5 +15,6 @@ public class MainActivity extends AppCompatActivity {
         int zehn = fünf * 2;
         String hello = "Hello";
         int neunzehn = 23-4;
+        String name = "Sarah";
     }
 }
